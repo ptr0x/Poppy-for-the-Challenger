@@ -14,3 +14,5 @@ C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\clipper_lib
 C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\LeagueSharp.xml
 C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\obj\Debug\PFTC.exe
 C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\obj\Debug\PFTC.pdb
+C:\Users\Intecma\Documents\GitHub\Poppy-for-the-Challenger\bin\Debug\PFTC.exe.config
+C:\Users\Intecma\Documents\GitHub\Poppy-for-the-Challenger\obj\Debug\PFTC.exe
