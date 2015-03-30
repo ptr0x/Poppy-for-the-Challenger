@@ -1,0 +1,16 @@
+C:\Users\Intecma\Documents\GitHub\ASS-Thresh\bin\Debug\Ass-Thresh.exe.config
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\PFTC.exe.config
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\obj\Debug\Ass-Thresh.csprojResolveAssemblyReference.cache
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\obj\Debug\PFTC.Properties.Resources.resources
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\obj\Debug\Ass-Thresh.csproj.GenerateResource.Cache
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\PFTC.exe
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\PFTC.pdb
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\ExternalDraw.dll
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\LeagueSharp.dll
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\SharpDX.dll
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\clipper_library.dll
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\bin\Debug\LeagueSharp.xml
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\obj\Debug\PFTC.exe
+C:\Users\Intecma\Documents\GitHub\Poppy for the Challenger\obj\Debug\PFTC.pdb
