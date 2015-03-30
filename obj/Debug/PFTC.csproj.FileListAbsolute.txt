@@ -1,0 +1,2 @@
+C:\Users\Intecma\Documents\GitHub\Poppy-for-the-Challenger\bin\Debug\PFTC.exe.config
+C:\Users\Intecma\Documents\GitHub\Poppy-for-the-Challenger\obj\Debug\PFTC.exe

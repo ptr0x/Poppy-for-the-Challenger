@@ -126,34 +126,21 @@ namespace PFTC.Plugin
 
         public void OnBeforeAttack()
         {
-            Orbwalking.BeforeAttack += args =>
-            {
-                try
-                {
-                    if (args.Target.IsValid<Obj_AI_Minion>() && Orbwalker.ActiveMode == Orbwalking.OrbwalkingMode.Mixed)
-                    {
-                        args.Process = false;
-                    }
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e);
-                }
-            };
+            
         }
 
         public override void OnAfterAttack(AttackableUnit unit, AttackableUnit target)
         {
             if (OrbwalkerMode == Orbwalking.OrbwalkingMode.Combo)
             {
-                if (GetBool("comboQ") && Q.IsReady() && manaManager() && Q.IsInRange(target))
+                if (GetBool("comboQ") && Q.IsReady())
                 {
                     Q.Cast();
                 }
             }
             else if (OrbwalkerMode == Orbwalking.OrbwalkingMode.Mixed)
             {
-                if (GetBool("harassQ") && Q.IsReady() && manaManager() && Q.IsInRange(target))
+                if (GetBool("harassQ") && Q.IsReady())
                 {
                     Q.Cast();
                 }
